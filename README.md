@@ -1,6 +1,6 @@
 # Zadanie
 
-## 1. Post @63playground
+## 1. Post na podanym koncie
 a) zdjęcia w poście to nasze zdjęcia oferty
 
 b) opis ma być odpowiednio stworzony na podstawie 3 wartości:
@@ -11,7 +11,3 @@ b) opis ma być odpowiednio stworzony na podstawie 3 wartości:
 ## 2. Webscraping
 
 Scrapujemy post na IG i scrapujemy zdjęcia oraz dane do formatu JSON
-
-## 3. Automation
-
-Dane pobieramy i automatycznie dajemy na serwis Lento.
